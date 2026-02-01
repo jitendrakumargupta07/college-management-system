@@ -7,9 +7,8 @@ This system provides **role-based access** for Students and Admins, secure authe
 ---
 
 ## 🚀 Live Demo
-*(Add links after deployment)*  
-- **Frontend:** https://your-frontend-url  
-- **Backend API:** https://your-backend-url  
+- **Frontend:** https://college-management-system-1-cev6.onrender.com 
+- **Backend API:** https://college-management-system-nnkd.onrender.com
 
 ---
 
