@@ -43,7 +43,7 @@ This system provides **role-based access** for Students and Admins, secure authe
 - Download Result PDF
 - Download Admit Card
 - Pay Fees & View Fee Status
-- View Notices
+- View Notice
 - Change Password
 
 ---
